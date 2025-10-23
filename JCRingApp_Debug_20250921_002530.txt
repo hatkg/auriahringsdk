@@ -1,0 +1,92 @@
+=== JCRingApp Debug Logs ===
+Exported at: 2025-09-21 00:25:30.896
+Total logs: 87
+=====================================
+
+[2025-09-21 00:22:48.677] [INFO] [RealBluetoothManager] 🔧 INICIANDO RealBluetoothManager...
+[2025-09-21 00:22:48.690] [INFO] [RealBluetoothManager] ✅ DataListener registrado no BleService!
+[2025-09-21 00:22:48.711] [INFO] [RealBluetoothManager] ✅ RealBluetoothManager inicializado corretamente
+[2025-09-21 00:22:49.583] [WARN] [RealBluetoothManager] 📭 rawData.collect() chamado mas data é null
+[2025-09-21 00:23:03.740] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:03.741] [INFO] [RealBluetoothManager] 🔄 Conectando...
+[2025-09-21 00:23:03.742] [ERROR] [RealBluetoothManager] ❌ Erro ao conectar: Attempt to read from field 'android.bluetooth.BluetoothAdapter com.jstyle.test2025.ble.BleManager.bluetoothAdapter' on a null object reference in method 'void com.jstyle.test2025.ble.BleService.connectedDevice(java.lang.String, android.content.Context, com.jstyle.blesdk2301.callback.BleConnectionListener)'
+[2025-09-21 00:23:18.414] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:18.926] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:21.596] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:21.938] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:22.164] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:22.398] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:22.595] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:22.805] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:22.988] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:23.181] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:23.374] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:23.562] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:23.757] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:23.956] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:24.166] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:24.365] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:24.564] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:24.756] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:24.976] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:27.996] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301 Device
+[2025-09-21 00:23:33.719] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301 Device
+[2025-09-21 00:23:34.727] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:35.235] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:35.689] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:36.052] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:36.308] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:36.757] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:23:37.073] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:24:02.738] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:24:27.494] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:24:35.412] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:24:43.320] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:24:43.636] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:24:43.864] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:24:44.116] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:24:44.392] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:24:44.661] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:24:45.131] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301 Device
+[2025-09-21 00:24:45.384] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301 Device
+[2025-09-21 00:24:45.528] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301 Device
+[2025-09-21 00:24:45.852] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301 Device
+[2025-09-21 00:24:46.185] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301 Device
+[2025-09-21 00:24:46.463] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301 Device
+[2025-09-21 00:24:47.229] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301 Device
+[2025-09-21 00:24:47.915] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301 Device
+[2025-09-21 00:24:48.663] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301 Device
+[2025-09-21 00:24:48.900] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301 Device
+[2025-09-21 00:24:49.336] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:24:49.560] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:24:49.768] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:24:49.978] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:24:50.194] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:24:50.392] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:24:50.604] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:24:55.522] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:24:57.449] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:02.200] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301 Device
+[2025-09-21 00:25:02.748] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301 Device
+[2025-09-21 00:25:03.007] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301 Device
+[2025-09-21 00:25:03.251] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301 Device
+[2025-09-21 00:25:03.729] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:03.954] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:04.183] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:04.424] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:04.663] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:05.117] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:05.365] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:05.576] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:05.805] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:07.981] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:08.234] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:08.479] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:08.707] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:08.934] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:09.177] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:09.389] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:09.602] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:09.840] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:10.072] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring
+[2025-09-21 00:25:10.305] [INFO] [RealBluetoothManager] 🔗 Conectando ao J2301B 14942: J2301B Ring

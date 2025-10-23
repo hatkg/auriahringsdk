@@ -1,0 +1,31 @@
+# Android
+*.apk
+*.aab
+*.dex
+*.class
+
+# Build directories
+build/
+app/build/
+blesdk_2301/build/
+.gradle/
+.idea/
+
+# Logs
+*.log
+hs_err_pid*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+*.iml
+
+# SDK directories with special characters
+sdk/2301SDK/2301SDK/2301SDK_ios/
+
+# Temporary files
+*.tmp
+*.temp
