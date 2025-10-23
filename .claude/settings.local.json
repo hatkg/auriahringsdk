@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(./gradlew:*)",
+      "Bash(chmod:*)",
+      "Bash(./build-apk.sh:*)",
+      "Bash(export ANDROID_HOME=\"C:/Users/hudson.santos/AppData/Local/Android/Sdk\")",
+      "Bash(ls:*)",
+      "Bash(echo $ANDROID_HOME)",
+      "Bash(rm:*)",
+      "Bash(grep:*)",
+      "Bash(cp:*)",
+      "Bash(java:*)",
+      "Bash(mkdir:*)",
+      "Bash(timeout 60 ./gradlew compileDebugKotlin --no-daemon:*)",
+      "Bash(timeout:*)",
+      "Bash(./quick-build.sh)",
+      "Bash(./quick-build-extended.sh:*)",
+      "Bash(./final-build.sh)",
+      "Bash(echo:*)",
+      "Bash(touch:*)",
+      "Bash(if [ -f \"./build-apk.sh\" ])",
+      "Bash(then chmod +x ./build-apk.sh)",
+      "Bash(else echo \"Script não encontrado\")",
+      "Bash(fi)",
+      "Bash(export GRADLE_OPTS=\"-Xmx1g -XX:MaxPermSize=512m\")",
+      "Bash(export:*)"
+    ],
+    "deny": []
+  }
+}
