@@ -1,0 +1,3 @@
+# Placeholder for plugin directory
+# Will be populated with Flutter plugin scaffold using:
+# flutter create --template=plugin --platforms=android auriah_ring_sdk
